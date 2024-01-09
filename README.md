@@ -12,11 +12,11 @@ This project is my submission for the Dukaan Frontend Engineer assignment. It in
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/dukaan-frontend-assignment.git
+git clone https://github.com/PranabKumarSahoo/dukaan-payouts-ui-assignment.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd dukaan-frontend-assignment
+cd dukaan-payouts-ui-assignment
 ```
 3. Install dependencies:
 ```bash
